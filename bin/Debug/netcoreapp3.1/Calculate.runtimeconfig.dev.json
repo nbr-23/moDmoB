@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\psyre\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\psyre\\.nuget\\packages"
+    ]
+  }
+}
